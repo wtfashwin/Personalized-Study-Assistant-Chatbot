@@ -1,0 +1,9 @@
+Topic: Newton's Laws of Motion
+
+Sir Isaac Newton's three laws of motion are fundamental principles of classical mechanics.
+
+First Law (Law of Inertia): An object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force. An object at rest stays at rest unless acted upon by an unbalanced force. Inertia is the resistance of any physical object to any change in its state of motion.
+
+Second Law: The acceleration of an object is directly proportional to the net force acting on the object and inversely proportional to its mass. The formula is often written as F=ma, where F is force, m is mass, and a is acceleration. This law explains how force, mass, and acceleration are related.
+
+Third Law: For every action, there is an equal and opposite reaction. This means that if object A exerts a force on object B, then object B simultaneously exerts a force on object A that is equal in magnitude and opposite in direction. This is why a rocket moves forward: the force of the exhaust gases pushing out is an "action," and the rocket moving in the opposite direction is the "reaction."

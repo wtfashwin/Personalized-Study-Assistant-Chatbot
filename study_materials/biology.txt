@@ -1,0 +1,25 @@
+Topic: The Cell
+
+The cell is the fundamental unit of life. There are two main types of cells: prokaryotic and eukaryotic.
+
+Prokaryotic Cells: These are simple cells that lack a membrane-bound nucleus and other organelles. Bacteria and archaea are examples of prokaryotes. Their genetic material, DNA, is located in a region called the nucleoid.
+
+Eukaryotic Cells: These are complex cells that have a membrane-bound nucleus containing their DNA, as well as various other organelles. Eukaryotic cells make up plants, animals, fungi, and protists. Key organelles include:
+
+Nucleus: Contains the cell's genetic material (DNA) and controls cell growth and reproduction.
+
+Mitochondria: Often called the "powerhouses" of the cell, they generate most of the chemical energy needed to power the cell's biochemical reactions.
+
+Chloroplasts: Found in plant cells, they are the site of photosynthesis, where sunlight is converted into chemical energy.
+
+Endoplasmic Reticulum (ER): A network of membranes that processes proteins and lipids.
+
+Golgi Apparatus: Modifies, sorts, and packages proteins and lipids for secretion or delivery to other organelles.
+
+Central Dogma of Molecular Biology: This describes the flow of genetic information in biological systems. It states that DNA is transcribed into RNA, which is then translated into protein.
+
+Replication: DNA makes copies of itself.
+
+Transcription: DNA is used as a template to create a messenger RNA (mRNA) molecule.
+
+Translation: The mRNA molecule is decoded to synthesize a protein.

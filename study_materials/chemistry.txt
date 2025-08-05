@@ -1,0 +1,27 @@
+Topic: The Periodic Table of Elements
+
+The periodic table is an organized chart of all known chemical elements. It arranges elements by increasing atomic number, which is the number of protons in an atom's nucleus.
+
+Groups (Columns): The vertical columns are called groups. Elements in the same group have similar chemical properties because they have the same number of valence electrons (electrons in the outermost shell).
+
+Group 1 (Alkali Metals): Highly reactive metals like Lithium (Li), Sodium (Na), and Potassium (K).
+
+Group 17 (Halogens): Highly reactive nonmetals like Fluorine (F), Chlorine (Cl), and Bromine (Br).
+
+Group 18 (Noble Gases): Unreactive gases like Helium (He) and Neon (Ne) due to their full valence electron shells.
+
+Periods (Rows): The horizontal rows are called periods. Elements in the same period have the same number of electron shells.
+
+Types of Chemical Bonds:
+
+Ionic Bond: A type of chemical bond formed between two ions with opposite charges. It typically occurs between a metal and a nonmetal, where one atom gives up an electron and the other accepts it. Example: Sodium chloride (NaCl).
+
+Covalent Bond: A bond in which atoms share pairs of electrons. This typically occurs between two nonmetals. Example: Water (H 
+2
+​
+ O) and Methane (CH 
+4
+​
+ ).
+
+Metallic Bond: A bond found in metals, where a "sea" of delocalized electrons is shared among a lattice of positively charged ions.
